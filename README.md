@@ -1,3 +1,5 @@
-# Salesforce-
-  The Project “Rice Mill CRM Application” aims to develop a user-friendly and feature-rich application that addresses the specific needs of a rice mill factory. It leverages the power of customer relationship 
-   management (CRM) to enhance customer experiences, optimize store operations, and improve overall efficiency in the rice mill factory. 
+# CRM APPLICATION FOR RICE MILL USING SALESFORCE-
+
+Project Demonstration:
+https://docs.google.com/document/d/1fW358oGxjF6YCLbBQJHp8mfxwcZBBrZlZu5drzNu9rI/edit?usp=sharing
+The Rice Mill CRM Application is a comprehensive solution tailored to the unique requirements of rice mill factories. It integrates customer relationship management principles to elevate customer experiences, streamline store operations, and boost overall efficiency. By leveraging advanced CRM functionalities, this application empowers businesses to better manage customer interactions, track sales, and optimize inventory, ultimately driving growth and profitability.
